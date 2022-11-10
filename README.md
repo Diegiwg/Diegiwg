@@ -4,7 +4,6 @@
   <a href="https://github.com/Diegiwg">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=diegiwg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegiwg&layout=compact&langs_count=7&theme=dark"/>
-   <img height="140em" src"https://github-readme-stats.vercel.app/api/wakatime?username=diegiwg" />   
 </div>
     <br />
 <div style="display: inline_block">
