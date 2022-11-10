@@ -1,7 +1,7 @@
 ## Ola, me chamo Diego Queiroz, e sou um entusiasta em programação
 
 <div >
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Diegiwg">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=diegiwg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegiwg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
