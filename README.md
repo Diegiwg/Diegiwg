@@ -30,18 +30,18 @@
         alt="Js"
         height="30"
         width="40"
-        src="https://cdn.jsdelivr.net/devicons/devicon/icons/javascript/javascript-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
     />
     <img
         alt="Ts"
         height="30"
         width="40"
-        src="https://cdn.jsdelivr.net/devicons/devicon/icons/typescript/typescript-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
     />
     <img
         alt="Python"
         height="30"
         width="40"
-        src="https://cdn.jsdelivr.net/devicons/devicon/icons/python/python-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
     />
 </div>
