@@ -24,24 +24,24 @@
         alt="CSS"
         height="30"
         width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
     />
     <img
         alt="Js"
         height="30"
         width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+        src="https://cdn.jsdelivr.net/devicons/devicon/icons/javascript/javascript-plain.svg"
     />
     <img
         alt="Ts"
         height="30"
         width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+        src="https://cdn.jsdelivr.net/devicons/devicon/icons/typescript/typescript-plain.svg"
     />
     <img
         alt="Python"
         height="30"
         width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        src="https://cdn.jsdelivr.net/devicons/devicon/icons/python/python-plain.svg"
     />
 </div>
