@@ -1,6 +1,6 @@
 ## Ola, me chamo Diego Queiroz, e sou um entusiasta em programação
 
-<main style="">
+<main style="display: flex; flex-direction: column; align-content: center; justify-content: center;">
     <div>
     <a href="https://github.com/Diegiwg">
         <img
