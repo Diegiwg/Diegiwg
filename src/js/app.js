@@ -1,0 +1,63 @@
+import { genProject } from "./lib/project.js";
+
+document.querySelector("#projetos").appendChild(
+    genProject({
+        title: "Meu primeiro Projeto",
+        imgs: [
+            "https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2019/08/O-que-e-site-1.png",
+            "https://highsales.digital/images/blog/tipos-de-sites.jpg",
+        ],
+        desc: "Voluptate eiusmod occaecat elit sit tempor id. Ullamco exercitation pariatur consequat labore consequat ipsum aute tempor exercitation. Amet aute ipsum ex esse commodo. Id consequat quis labore mollit aute voluptate minim sunt excepteur duis Lorem. Et officia quis esse nisi anim qui proident pariatur magna dolor. Aliquip proident aliqua ex sunt labore ullamco est. Et fugiat est aute fugiat anim ipsum reprehenderit sunt eu eu minim labore.",
+        source: "#",
+        demo: "#",
+    })
+);
+
+document.querySelector("#projetos").appendChild(
+    genProject({
+        title: "Meu primeiro Projeto",
+        imgs: [
+            "https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2019/08/O-que-e-site-1.png",
+            "https://highsales.digital/images/blog/tipos-de-sites.jpg",
+        ],
+        desc: "Voluptate eiusmod occaecat elit sit tempor id. Ullamco exercitation pariatur consequat labore consequat ipsum aute tempor exercitation. Amet aute ipsum ex esse commodo. Id consequat quis labore mollit aute voluptate minim sunt excepteur duis Lorem. Et officia quis esse nisi anim qui proident pariatur magna dolor. Aliquip proident aliqua ex sunt labore ullamco est. Et fugiat est aute fugiat anim ipsum reprehenderit sunt eu eu minim labore.",
+        source: "#",
+        demo: "#",
+    })
+);
+document.querySelector("#projetos").appendChild(
+    genProject({
+        title: "Meu primeiro Projeto",
+        imgs: [
+            "https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2019/08/O-que-e-site-1.png",
+            "https://highsales.digital/images/blog/tipos-de-sites.jpg",
+        ],
+        desc: "Voluptate eiusmod occaecat elit sit tempor id. Ullamco exercitation pariatur consequat labore consequat ipsum aute tempor exercitation. Amet aute ipsum ex esse commodo. Id consequat quis labore mollit aute voluptate minim sunt excepteur duis Lorem. Et officia quis esse nisi anim qui proident pariatur magna dolor. Aliquip proident aliqua ex sunt labore ullamco est. Et fugiat est aute fugiat anim ipsum reprehenderit sunt eu eu minim labore.",
+        source: "#",
+        demo: "#",
+    })
+);
+document.querySelector("#projetos").appendChild(
+    genProject({
+        title: "Meu primeiro Projeto",
+        imgs: [
+            "https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2019/08/O-que-e-site-1.png",
+            "https://highsales.digital/images/blog/tipos-de-sites.jpg",
+        ],
+        desc: "Voluptate eiusmod occaecat elit sit tempor id. Ullamco exercitation pariatur consequat labore consequat ipsum aute tempor exercitation. Amet aute ipsum ex esse commodo. Id consequat quis labore mollit aute voluptate minim sunt excepteur duis Lorem. Et officia quis esse nisi anim qui proident pariatur magna dolor. Aliquip proident aliqua ex sunt labore ullamco est. Et fugiat est aute fugiat anim ipsum reprehenderit sunt eu eu minim labore.",
+        source: "#",
+        demo: "#",
+    })
+);
+document.querySelector("#projetos").appendChild(
+    genProject({
+        title: "Meu primeiro Projeto",
+        imgs: [
+            "https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2019/08/O-que-e-site-1.png",
+            "https://highsales.digital/images/blog/tipos-de-sites.jpg",
+        ],
+        desc: "Voluptate eiusmod occaecat elit sit tempor id. Ullamco exercitation pariatur consequat labore consequat ipsum aute tempor exercitation. Amet aute ipsum ex esse commodo. Id consequat quis labore mollit aute voluptate minim sunt excepteur duis Lorem. Et officia quis esse nisi anim qui proident pariatur magna dolor. Aliquip proident aliqua ex sunt labore ullamco est. Et fugiat est aute fugiat anim ipsum reprehenderit sunt eu eu minim labore.",
+        source: "#",
+        demo: "#",
+    })
+);
