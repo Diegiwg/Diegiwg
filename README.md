@@ -1,6 +1,7 @@
 ## Ola, me chamo Diego Queiroz, e sou um entusiasta em programação
 
-<div>
+<main style="">
+    <div>
     <a href="https://github.com/Diegiwg">
         <img
             height="140em"
@@ -13,7 +14,7 @@
     </a>
 </div>
 <br />
-<div style="display: inline_block">
+<div>
     <img
         alt="HTML"
         height="30"
@@ -45,3 +46,4 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
     />
 </div>
+</main>
