@@ -1,4 +1,5 @@
 ## Ola, me chamo Diego Queiroz, e sou um entusiasta em programação
+![](https://komarev.com/ghpvc/?username=Diegiwg)
 
 <main>
     <div>
