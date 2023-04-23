@@ -1,6 +1,16 @@
 ## Quem sou eu
 
-Olá, me chamo Diego Queiroz, e estou em transição de carreira, visando torna-se um desenvolvedor backend.
+Olá, me chamo Diego Queiroz, e estou em transição de carreira.
+
+Sou desenvolvedor Python e Javascript, com foco no backend.
+
+## Minhas tecnologias
+
+Programando:
+- Python, Javascript, Typescript e Java.
+
+Estudando: 
+- HTML, CSS, SQL e C#.
 
 ## Estáticas do GitHub 
 <main>
