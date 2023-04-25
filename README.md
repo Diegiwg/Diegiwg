@@ -13,10 +13,6 @@ Estudando:
 - HTML, CSS, SQL e C#.
 
 ## Estáticas do GitHub 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diegiwg&theme=default)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diegiwg&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Diegiwg&theme=default&utcOffset=8)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diegiwg&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diegiwg&theme=default)
