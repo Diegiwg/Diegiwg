@@ -1,7 +1,5 @@
 # Olá 👋, sou o Diego Queiroz
 
-![Contador de Visualizações no Perfil](https://komarev.com/ghpvc/?username=diegiwg&label=Visualizações%20em%20Perfil&color=0e75b6&style=flat)
-
 ## Um pouco sobre quem sou eu
 
 - <img src="assets/book.svg" width="10" /> Atualmente estou em processo de transição de carreira para desenvolvedor backend.
@@ -14,37 +12,22 @@
 
 ## Me encontre em
 
-- <img src="assets/envelope.svg" width="12" /> [Email Profissional](prof.diegoqueiroz@gmail.com)
-- <img src="assets/whatsapp.svg" width="12" /> [WhatsApp Profissional](https://tinyurl.com/WhatsApp-Diegiwg)
-- <img src="assets/linkedin.svg" width="12" /> [Perfil do Linked-in](https://www.linkedin.com/in/diego-silva-queiroz)
-- <img src="assets/discord.svg" width="12" /> [Perfil no Discord](https://discord.gg/Diegiwg#6476)
+- <img src="assets/envelope.svg" width="15" /> [Email](prof.diegoqueiroz@gmail.com), <img src="assets/whatsapp.svg" width="15" /> [WhatsApp](https://tinyurl.com/WhatsApp-Diegiwg), <img src="assets/linkedin.svg" width="15" /> [Linked-in](https://www.linkedin.com/in/diego-silva-queiroz), <img src="assets/discord.svg" width="15" /> [Discord](https://discord.gg/Diegiwg#6476)
 
 ## Informações técnicas
 
 ### Linguagens
 
-- <img src="assets/css.svg" width="15" /> CSS
-- <img src="assets/html5.svg" width="15" /> HTML5
-- <img src="assets/javascript.svg" width="15" /> Javascript
-- <img src="assets/python.svg" width="15" /> Python
-- <img src="assets/typescript.svg" width="15" /> Typescript
+- <img src="assets/css.svg" width="15" /> CSS, <img src="assets/html5.svg" width="15" /> HTML5, <img src="assets/javascript.svg" width="15" /> Javascript, <img src="assets/python.svg" width="15" /> Python, <img src="assets/typescript.svg" width="15" /> Typescript
 
 ### Frameworks
 
-- <img src="assets/express.svg" width="15" /> Express
-- <img src="assets/fastapi.svg" width="15" /> FastAPI
-- <img src="assets/flask.svg" width="15" /> Flask
-- <img src="assets/nestjs.svg" width="15" /> NestJS
-- <img src="assets/svelte.svg" width="15" /> Svelte
+- <img src="assets/express.svg" width="15" /> Express, <img src="assets/fastapi.svg" width="15" /> FastAPI, <img src="assets/flask.svg" width="15" /> Flask, <img src="assets/nestjs.svg" width="15" /> NestJS, <img src="assets/svelte.svg" width="15" /> Svelte
 
 ### Bancos de Dados
 
-- <img src="assets/mongodb.svg" width="15" /> MongoDB
-- <img src="assets/postgresql.svg" width="15" /> PostgreSQL
-- <img src="assets/sqlite.svg" width="15" /> SQLite
+- <img src="assets/mongodb.svg" width="15" /> MongoDB, <img src="assets/postgresql.svg" width="15" /> PostgreSQL, <img src="assets/sqlite.svg" width="15" /> SQLite
 
 ## Informações do GitHub
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Diegiwg&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=diegiwg&column=8&margin-w=15&margin-h=15&no-bg=true&title=MultiLanguage,Repositories,Commits,Stars,Issues,PullRequest)
