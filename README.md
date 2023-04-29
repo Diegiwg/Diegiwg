@@ -47,7 +47,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Diegiwg&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=diegiwg&column=8&margin-w=15&margin-h=15&no-bg=true&title=MultiLanguage,Repositories,Commits,Stars,Issues,PullRequest)
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
