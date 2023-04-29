@@ -21,11 +21,11 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegiwg&show_icons=true&locale=en&layout=compact" alt="diegiwg" height="200" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegiwg&" alt="diegiwg" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api?username=diegiwg&show_icons=true&locale=en" alt="diegiwg" height="200" /></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegiwg&show_icons=true&locale=en&layout=compact" alt="diegiwg" height="140" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegiwg&" alt="diegiwg" height="140" />
+    <img src="https://github-readme-stats.vercel.app/api?username=diegiwg&show_icons=true&locale=en" alt="diegiwg" height="140" /></p>
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=diegiwg&column=8&margin-w=15&margin-h=15" alt="diegiwg" height="150" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=diegiwg&column=8&margin-w=15&margin-h=15" alt="diegiwg" height="120" />
 </p>
