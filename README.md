@@ -1,162 +1,65 @@
-<h1 align="center">Hi 👋, I'm Diego Queiroz</h1>
-<h3 align="center">I'm in the process of transitioning my career to backend developer.</h3>
+# Olá 👋, sou o Diego Queiroz
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegiwg&label=Profile Views&color=0e75b6&style=flat" alt="diegiwg" /> </p>
+![Contador de Visualizações no Perfil](https://komarev.com/ghpvc/?username=diegiwg&label=Visualizações%20em%20Perfil&color=0e75b6&style=flat)
 
-- 🔭 I am currently working on [Sistema de Estoque e Vendas](https://github.com/Diegiwg/sistema-de-vendas-inventario-queiroz-lubrificantes)
+## Um pouco sobre quem sou eu
 
-- 🌱 I am currently studying **Python e Javascript**
+- <i class="fa fa-book" aria-hidden="true"></i> Atualmente estou em processo de transição de carreira para desenvolvedor backend.
 
-- 📫 Find me at **prof.diegiwg@gmail.com**
+- <i class="fa fa-user-o" aria-hidden="true"></i> Sou um jovem de 24 anos (1999), que descobriu a paixão por tecnologia e desenvolvimento de software, que ainda não conseguiu se organizar para estudar em uma graduação. Porem, estou diariamente estudando Python e Javascript, além de algoritmos e tópicos gerais de programação.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-silva-queiroz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diego-silva-queiroz/" height="30" width="40" /></a>
-<a href="https://discord.gg/Diegiwg#6476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Diegiwg#6476" height="30" width="40" /></a>
-</p>
+- <i class="fa fa-users" aria-hidden="true"></i> Tenho buscado interagir, principalmente auxiliando nas duvidas e problemas, com varias pessoas, em diversas comunidades (como a [SouJunior Lab](https://discord.gg/soujunior-community-759176734460346423), [Vacuum](https://discord.gg/vacuum), e [He4rt](https://discord.gg/he4rt)), além de grupos em Telegram e WhatsApp. E no futuro, quero oficializar minha atividade como Professor de Programação.
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="css3"
-    width="40"
-    height="40"
-  />
+- <i class="fa fa-diamond" aria-hidden="true"></i> Meu projeto de maior orgulho (e meu primeiro), é o [Sistema de Estoque e Vendas](https://github.com/Diegiwg/sistema-de-vendas-inventario-queiroz-lubrificantes), que desenvolvi voluntariamente, para uma loja em minha cidade. Foi muito interessante, abordar o dono da loja, oferecendo a modernização no 'excel' que ele usava.
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="linux"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-    alt="bash"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="git"
-    width="40"
-    height="40"
-  />
+## Me encontre em
 
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-    alt="nestjs"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="express"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
-    alt="svelte"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-    alt="flask"
-    width="40"
-    height="40"
-  />
+- <i class="fa fa-envelope" aria-hidden="true">&nbsp; </i> [Email profissional](prof.diegoqueiroz@gmail.com)
+- <i class="fa fa-linkedin" aria-hidden="true">&nbsp; </i> [Perfil do Linked-in](https://www.linkedin.com/in/diego-silva-queiroz)
+- <i class="fa fa-discord-alt" aria-hidden="true">&nbsp; </i> [Perfil no Discord](https://discord.gg/Diegiwg#6476)
 
-  <img
-    src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-    alt="mariadb"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-    alt="mongodb"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-    alt="postgresql"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-    alt="sqlite"
-    width="40"
-    height="40"
-  />
+## Informações técnicas
 
-  <img
-    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    alt="postman"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-    alt="selenium"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker"
-    width="40"
-    height="40"
-  />
-</p>
+### Linguagens
 
-<br>
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegiwg&" alt="diegiwg" height="140" />
-    <img src="https://github-readme-stats.vercel.app/api?username=diegiwg&show_icons=true&locale=en" alt="diegiwg" height="140" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegiwg&show_icons=true&locale=en&layout=compact" alt="diegiwg" height="140" />
-</p>
+- <i class="devicon-css3-plain" aria-hidden="true"></i> CSS
+- <i class="devicon-html5-plain" aria-hidden="true"></i> HTML5
+- <i class="devicon-javascript-plain" aria-hidden="true"></i> Javascript
+- <i class="devicon-python-plain"></i> Python
+- <i class="devicon-typescript-plain" aria-hidden="true"></i> Typescript
 
-<p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=diegiwg&column=8&margin-w=15&margin-h=15" alt="diegiwg" height="120" />
-</p>
+### Frameworks
+
+- <i class="devicon-express-original" aria-hidden="true"></i> Express
+- <i class="devicon-fastapi-plain"></i> FastAPI
+- <i class="devicon-flask-original"></i> Flask
+- <i class="devicon-nestjs-plain" aria-hidden="true"></i> NestJS
+- <i class="devicon-svelte-plain"></i> Svelte
+
+### Bancos de Dados
+
+- <i class="devicon-mongodb-plain"></i> MongoDB
+- <i class="devicon-postgresql-plain"></i> PostgreSQL
+- <i class="devicon-sqlite-plain"></i> SQLite
+
+### Extras
+
+- <i class="devicon-bash-plain"></i> Bash
+- <i class="devicon-canva-original"></i> Canva
+- <i class="devicon-denojs-original"></i> DenoJS
+- <i class="devicon-docker-plain"></i> Docker
+- <i class="devicon-gimp-plain"></i> Gimp
+- <i class="devicon-git-plain"></i> Git
+- <i class="devicon-github-original"></i> GitHub
+- <i class="devicon-linux-plain"></i> Linux
+- <i class="devicon-markdown-original"></i> Markdown
+
+## Informações do GitHub
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Diegiwg&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=600)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=diegiwg&column=8&margin-w=15&margin-h=15&no-bg=true&title=MultiLanguage,Repositories,Commits,Stars,Issues,PullRequest)
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css" integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
