@@ -4,55 +4,43 @@
 
 ## Um pouco sobre quem sou eu
 
-- <i class="fa fa-book" aria-hidden="true"></i> Atualmente estou em processo de transição de carreira para desenvolvedor backend.
+- <img src="assets/book.svg" width="15" /> Atualmente estou em processo de transição de carreira para desenvolvedor backend.
 
-- <i class="fa fa-user-o" aria-hidden="true"></i> Sou um jovem de 24 anos (1999), que descobriu a paixão por tecnologia e desenvolvimento de software, que ainda não conseguiu se organizar para estudar em uma graduação. Porem, estou diariamente estudando Python e Javascript, além de algoritmos e tópicos gerais de programação.
+- <img src="assets/user-o.svg" width="15" /> Sou um jovem de 24 anos (1999), que descobriu a paixão por tecnologia e desenvolvimento de software, que ainda não conseguiu se organizar para estudar em uma graduação. Porem, estou diariamente estudando Python e Javascript, além de algoritmos e tópicos gerais de programação.
 
-- <i class="fa fa-users" aria-hidden="true"></i> Tenho buscado interagir, principalmente auxiliando nas duvidas e problemas, com varias pessoas, em diversas comunidades (como a [SouJunior Lab](https://discord.gg/soujunior-community-759176734460346423), [Vacuum](https://discord.gg/vacuum), e [He4rt](https://discord.gg/he4rt)), além de grupos em Telegram e WhatsApp. E no futuro, quero oficializar minha atividade como Professor de Programação.
+- <img src="assets/users.svg" width="15" /> Tenho buscado interagir, principalmente auxiliando nas duvidas e problemas, com varias pessoas, em diversas comunidades (como a [SouJunior Lab](https://discord.gg/soujunior-community-759176734460346423), [Vacuum](https://discord.gg/vacuum), e [He4rt](https://discord.gg/he4rt)), além de grupos em Telegram e WhatsApp. E no futuro, quero oficializar minha atividade como Professor de Programação.
 
-- <i class="fa fa-diamond" aria-hidden="true"></i> Meu projeto de maior orgulho (e meu primeiro), é o [Sistema de Estoque e Vendas](https://github.com/Diegiwg/sistema-de-vendas-inventario-queiroz-lubrificantes), que desenvolvi voluntariamente, para uma loja em minha cidade. Foi muito interessante, abordar o dono da loja, oferecendo a modernização no 'excel' que ele usava.
+- <img src="assets/diamond.svg" width="15" /> Meu projeto de maior orgulho (e meu primeiro), é o [Sistema de Estoque e Vendas](https://github.com/Diegiwg/sistema-de-vendas-inventario-queiroz-lubrificantes), que desenvolvi voluntariamente, para uma loja em minha cidade. Foi muito interessante, abordar o dono da loja, oferecendo a modernização no 'excel' que ele usava.
 
 ## Me encontre em
 
-- <i class="fa fa-envelope" aria-hidden="true">&nbsp; </i> [Email profissional](prof.diegoqueiroz@gmail.com)
-- <i class="fa fa-linkedin" aria-hidden="true">&nbsp; </i> [Perfil do Linked-in](https://www.linkedin.com/in/diego-silva-queiroz)
-- <i class="fa fa-discord-alt" aria-hidden="true">&nbsp; </i> [Perfil no Discord](https://discord.gg/Diegiwg#6476)
+- <img src="assets/envelope.svg" width="15" /> [Email profissional](prof.diegoqueiroz@gmail.com)
+- <img src="assets/linkedin.svg" width="15" /> [Perfil do Linked-in](https://www.linkedin.com/in/diego-silva-queiroz)
+- <img src="assets/discord.svg" width="15" /> [Perfil no Discord](https://discord.gg/Diegiwg#6476)
 
 ## Informações técnicas
 
 ### Linguagens
 
-- <i class="devicon-css3-plain" aria-hidden="true"></i> CSS
-- <i class="devicon-html5-plain" aria-hidden="true"></i> HTML5
-- <i class="devicon-javascript-plain" aria-hidden="true"></i> Javascript
-- <i class="devicon-python-plain"></i> Python
-- <i class="devicon-typescript-plain" aria-hidden="true"></i> Typescript
+- <img src="assets/css.svg" width="15" /> CSS
+- <img src="assets/html5.svg" width="15" /> HTML5
+- <img src="assets/javascript.svg" width="15" /> Javascript
+- <img src="assets/python.svg" width="15" /> Python
+- <img src="assets/typescript.svg" width="15" /> Typescript
 
 ### Frameworks
 
-- <i class="devicon-express-original" aria-hidden="true"></i> Express
-- <i class="devicon-fastapi-plain"></i> FastAPI
-- <i class="devicon-flask-original"></i> Flask
-- <i class="devicon-nestjs-plain" aria-hidden="true"></i> NestJS
-- <i class="devicon-svelte-plain"></i> Svelte
+- <img src="assets/express.svg" width="15" /> Express
+- <img src="assets/fastapi.svg" width="15" /> FastAPI
+- <img src="assets/flask.svg" width="15" /> Flask
+- <img src="assets/nestjs.svg" width="15" /> NestJS
+- <img src="assets/svelte.svg" width="15" /> Svelte
 
 ### Bancos de Dados
 
-- <i class="devicon-mongodb-plain"></i> MongoDB
-- <i class="devicon-postgresql-plain"></i> PostgreSQL
-- <i class="devicon-sqlite-plain"></i> SQLite
-
-### Extras
-
-- <i class="devicon-bash-plain"></i> Bash
-- <i class="devicon-canva-original"></i> Canva
-- <i class="devicon-denojs-original"></i> DenoJS
-- <i class="devicon-docker-plain"></i> Docker
-- <i class="devicon-gimp-plain"></i> Gimp
-- <i class="devicon-git-plain"></i> Git
-- <i class="devicon-github-original"></i> GitHub
-- <i class="devicon-linux-plain"></i> Linux
-- <i class="devicon-markdown-original"></i> Markdown
+- <img src="assets/mongodb.svg" width="15" /> MongoDB
+- <img src="assets/postgresql.svg" width="15" /> PostgreSQL
+- <img src="assets/sqlite.svg" width="15" /> SQLite
 
 ## Informações do GitHub
 
