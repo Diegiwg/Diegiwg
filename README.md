@@ -4,7 +4,7 @@
 
 - <img src="assets/book.svg" width="10" /> Atualmente estou em processo de transição de carreira para desenvolvedor backend.
 
-- <img src="assets/user-o.svg" width="10" /> Sou um jovem de 24 anos (1999), que descobriu a paixão por tecnologia e desenvolvimento de software, que ainda não conseguiu se organizar para estudar em uma graduação. Porem, estou diariamente estudando Python e Javascript, além de algoritmos e tópicos gerais de programação.
+- <img src="assets/user-o.svg" width="10" /> Sou uma pessoa que descobriu a paixão por tecnologia e desenvolvimento de software, que ainda não conseguiu se organizar para estudar em uma graduação. Porem, estou diariamente estudando Python e Javascript, além de algoritmos e tópicos gerais de programação.
 
 - <img src="assets/users.svg" width="10" /> Tenho buscado interagir, principalmente auxiliando nas duvidas e problemas, com varias pessoas, em diversas comunidades (como a [SouJunior Lab](https://discord.gg/soujunior-community-759176734460346423), [Vacuum](https://discord.gg/vacuum), e [He4rt](https://discord.gg/he4rt)), além de grupos em Telegram e WhatsApp. E no futuro, quero oficializar minha atividade como Professor de Programação.
 
