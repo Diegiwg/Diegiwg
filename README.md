@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego Queiroz</h1>
 <h3 align="center">I'm in the process of transitioning my career to backend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegiwg&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=0e75b6&style=flat" alt="diegiwg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegiwg&label=Profile Views&color=0e75b6&style=flat" alt="diegiwg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegiwg" alt="diegiwg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegiwg" alt="diegiwg" width="500" /></a> </p>
 
 - 🔭 I am currently working on [Sistema de Estoque e Vendas](https://github.com/Diegiwg/sistema-de-vendas-inventario-queiroz-lubrificantes)
 
