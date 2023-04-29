@@ -4,19 +4,20 @@
 
 ## Um pouco sobre quem sou eu
 
-- <img src="assets/book.svg" width="15" /> Atualmente estou em processo de transição de carreira para desenvolvedor backend.
+- <img src="assets/book.svg" width="10" /> Atualmente estou em processo de transição de carreira para desenvolvedor backend.
 
-- <img src="assets/user-o.svg" width="15" /> Sou um jovem de 24 anos (1999), que descobriu a paixão por tecnologia e desenvolvimento de software, que ainda não conseguiu se organizar para estudar em uma graduação. Porem, estou diariamente estudando Python e Javascript, além de algoritmos e tópicos gerais de programação.
+- <img src="assets/user-o.svg" width="10" /> Sou um jovem de 24 anos (1999), que descobriu a paixão por tecnologia e desenvolvimento de software, que ainda não conseguiu se organizar para estudar em uma graduação. Porem, estou diariamente estudando Python e Javascript, além de algoritmos e tópicos gerais de programação.
 
-- <img src="assets/users.svg" width="15" /> Tenho buscado interagir, principalmente auxiliando nas duvidas e problemas, com varias pessoas, em diversas comunidades (como a [SouJunior Lab](https://discord.gg/soujunior-community-759176734460346423), [Vacuum](https://discord.gg/vacuum), e [He4rt](https://discord.gg/he4rt)), além de grupos em Telegram e WhatsApp. E no futuro, quero oficializar minha atividade como Professor de Programação.
+- <img src="assets/users.svg" width="10" /> Tenho buscado interagir, principalmente auxiliando nas duvidas e problemas, com varias pessoas, em diversas comunidades (como a [SouJunior Lab](https://discord.gg/soujunior-community-759176734460346423), [Vacuum](https://discord.gg/vacuum), e [He4rt](https://discord.gg/he4rt)), além de grupos em Telegram e WhatsApp. E no futuro, quero oficializar minha atividade como Professor de Programação.
 
-- <img src="assets/diamond.svg" width="15" /> Meu projeto de maior orgulho (e meu primeiro), é o [Sistema de Estoque e Vendas](https://github.com/Diegiwg/sistema-de-vendas-inventario-queiroz-lubrificantes), que desenvolvi voluntariamente, para uma loja em minha cidade. Foi muito interessante, abordar o dono da loja, oferecendo a modernização no 'excel' que ele usava.
+- <img src="assets/diamond.svg" width="10" /> Meu projeto de maior orgulho (e meu primeiro), é o [Sistema de Estoque e Vendas](https://github.com/Diegiwg/sistema-de-vendas-inventario-queiroz-lubrificantes), que desenvolvi voluntariamente, para uma loja em minha cidade. Foi muito interessante, abordar o dono da loja, oferecendo a modernização no 'excel' que ele usava.
 
 ## Me encontre em
 
-- <img src="assets/envelope.svg" width="15" /> [Email profissional](prof.diegoqueiroz@gmail.com)
-- <img src="assets/linkedin.svg" width="15" /> [Perfil do Linked-in](https://www.linkedin.com/in/diego-silva-queiroz)
-- <img src="assets/discord.svg" width="15" /> [Perfil no Discord](https://discord.gg/Diegiwg#6476)
+- <img src="assets/envelope.svg" width="12" /> [Email Profissional](prof.diegoqueiroz@gmail.com)
+- <img src="assets/whatsapp.svg" width="12" /> [WhatsApp Profissional](https://tinyurl.com/WhatsApp-Diegiwg)
+- <img src="assets/linkedin.svg" width="12" /> [Perfil do Linked-in](https://www.linkedin.com/in/diego-silva-queiroz)
+- <img src="assets/discord.svg" width="12" /> [Perfil no Discord](https://discord.gg/Diegiwg#6476)
 
 ## Informações técnicas
 
