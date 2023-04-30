@@ -32,3 +32,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Diegiwg&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=520)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegiwg&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent" height="194" />
+
+<style> img {
+    filter: grayscale(1);
+}
+</style>
