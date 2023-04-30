@@ -1,4 +1,4 @@
-# Olá 👋, sou o Diego Queiroz
+# Olá, sou o Diego Queiroz
 
 ## Um pouco sobre quem sou eu
 
