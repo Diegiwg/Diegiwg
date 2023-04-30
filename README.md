@@ -26,7 +26,7 @@
 
 ### Bancos de Dados
 
-- <img src="assets/mongodb.svg" width="15" /> MongoDB, <img src="assets/postgresql.svg" width="15" /> PostgreSQL, <img src="assets/sqlite.svg" width="15" /> SQLite
+- <img src="assets/mongodb.svg" width="15" /> MongoDB, <img src="assets/postgresql.svg" width="15" /> PostgreSQL, <img src="assets/x-sqlite.svg" width="15" /> SQLite
 
 ## Informações do GitHub
 
