@@ -15,23 +15,22 @@
 - <img src="assets/envelope.svg" width="14" /> Email: [prof.diegoqueiroz@gmail.com](mailto:prof.diegoqueiroz@gmail.com)
 - <img src="assets/whatsapp.svg" width="14" /> WhatsApp: [+55 (75) 9 8896-6013](https://tinyurl.com/WhatsApp-Diegiwg)
 - <img src="assets/linkedin.svg" width="14" /> Linked-in: [Diego Silva Queiroz](https://www.linkedin.com/in/diego-silva-queiroz)
-- <img src="assets/discord.svg" width="14" /> Discord: [Diegiwg#6476](#)
+- <img src="assets/discord.svg" width="14" /> <a name="Discord"></a>Discord: [Diegiwg#6476](#Discord)
 
 ## Informações técnicas
 
 ### Backend
 
-- <img src="assets/python.svg" width="14" /> Python, <img src="assets/javascript.svg" width="14" /> Javascript, <img src="assets/typescript.svg" width="14" /> Typescript
-
-- <img src="assets/express.svg" width="14" /> Express, <img src="assets/fastapi.svg" width="14" /> FastAPI, <img src="assets/flask.svg" width="14" /> Flask, <img src="assets/nestjs.svg" width="14" /> NestJS, <img src="assets/svelte.svg" width="14" /> Svelte
+- <img src="assets/python.svg" width="14" /> Python
+- <img src="assets/beeware.svg" width="16" /> BeeWare
 
 ### Frontend
 
-- <img src="assets/css.svg" width="14" /> CSS, <img src="assets/html5.svg" width="14" /> HTML5
+- <img src="assets/toga.svg" width="22" /> Toga
 
 ### Bancos de Dados
 
-- <img src="assets/mongodb.svg" width="14" /> MongoDB, <img src="assets/postgresql.svg" width="14" /> PostgreSQL, <img src="assets/x-sqlite.svg" width="14" /> SQLite
+- <img src="assets/tinydb.svg" width="12" /> TinyDB
 
 ### Informações do GitHub
 
