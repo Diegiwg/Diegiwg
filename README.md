@@ -10,12 +10,14 @@
 
 - <img src="assets/diamond.svg" width="14" /> Meu projeto de maior orgulho (e meu primeiro), é o [Sistema de Estoque e Vendas](https://github.com/Diegiwg/sistema-de-vendas-inventario-queiroz-lubrificantes), que desenvolvi voluntariamente, para uma loja em minha cidade. Foi muito interessante, abordar o dono da loja, oferecendo a modernização no 'Excel' que ele usava.
 
+<a name="Discord"></a>
+
 ## Me encontre em
 
 - <img src="assets/envelope.svg" width="14" /> Email: [prof.diegoqueiroz@gmail.com](mailto:prof.diegoqueiroz@gmail.com)
 - <img src="assets/whatsapp.svg" width="14" /> WhatsApp: [+55 (75) 9 8896-6013](https://tinyurl.com/WhatsApp-Diegiwg)
 - <img src="assets/linkedin.svg" width="14" /> Linked-in: [Diego Silva Queiroz](https://www.linkedin.com/in/diego-silva-queiroz)
-- <img src="assets/discord.svg" width="14" /> <a name="Discord"></a>Discord: [Diegiwg#6476](#Discord)
+- <img src="assets/discord.svg" width="14" /> Discord: [Diegiwg#6476](#Discord)
 
 ## Informações técnicas
 
