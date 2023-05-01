@@ -23,16 +23,16 @@
 
 ### Backend
 
-- <img src="assets/python.svg" width="14" /> Python
-- <img src="assets/beeware.svg" width="16" /> BeeWare
+- [<img src="assets/python.svg" width="14" /> Python](https://www.python.org/)
+- [<img src="assets/beeware.svg" width="16" /> BeeWare](https://beeware.org/)
 
 ### Frontend
 
-- <img src="assets/toga.svg" width="22" /> Toga
+- [<img src="assets/toga.svg" width="22" /> Toga](https://toga.readthedocs.io/)
 
 ### Bancos de Dados
 
-- <img src="assets/tinydb.svg" width="12" /> TinyDB
+- [<img src="assets/tinydb.svg" width="12" /> TinyDB](https://tinydb.readthedocs.io/)
 
 ### Informações do GitHub
 
