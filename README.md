@@ -12,7 +12,7 @@
 
 ## Me encontre em
 
-- <img src="assets/envelope.svg" width="14" /> [Email](prof.diegoqueiroz@gmail.com), <img src="assets/whatsapp.svg" width="14" /> [WhatsApp](https://tinyurl.com/WhatsApp-Diegiwg), <img src="assets/linkedin.svg" width="14" /> [Linked-in](https://www.linkedin.com/in/diego-silva-queiroz), <img src="assets/discord.svg" width="14" /> [Discord](discordapp.com/users/Diegiwg#6476)
+- <img src="assets/envelope.svg" width="14" /> [Email](prof.diegoqueiroz@gmail.com), <img src="assets/whatsapp.svg" width="14" /> [WhatsApp](https://tinyurl.com/WhatsApp-Diegiwg), <img src="assets/linkedin.svg" width="14" /> [Linked-in](https://www.linkedin.com/in/diego-silva-queiroz), <img src="assets/discord.svg" width="14" /> [Discord](https://discordapp.com/users/Diegiwg#6476)
 
 ## Informações técnicas
 
