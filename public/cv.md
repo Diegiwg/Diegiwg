@@ -12,7 +12,7 @@ Garanto sempre aprender o conhecimento necessário para o bem estar dos projetos
 
 ## Contatos
 
-Linked-in: [Diego Silva Queiroz](https://www.linkedin.com/in/diego-silva-queiroz) | Email: [prof.diegoqueiroz@gmail.com](mailto:prof.diegoqueiroz@gmail.com) | WhatsApp: [+55 (75) 9 8896-6013](https://tinyurl.com/WhatsApp-Diegiwg)
+GitHub: [Diego Queiroz](https://github.com/Diegiwg) | Linked-in: [Diego Silva Queiroz](https://www.linkedin.com/in/diego-silva-queiroz) | Email: [prof.diegoqueiroz@gmail.com](mailto:prof.diegoqueiroz@gmail.com) | WhatsApp: [+55 (75) 9 8896-6013](https://tinyurl.com/WhatsApp-Diegiwg)
 
 ## Experiências
 
@@ -24,9 +24,53 @@ Linked-in: [Diego Silva Queiroz](https://www.linkedin.com/in/diego-silva-queiroz
 
 - Buscando adquirir experiencia, busquei em minha região empresas que estivessem dispostas a aceitar um iniciante desenvolvendo um sistema para seu negocio. Nessa busca, encontrei uma loja que viabilizou o projeto, me apoiando com dados e demandas.
 
+### Projetos Pessoais
+
+- Em meus projetos pessoais, busco sempre estar testando novas ferramentas, linguagens e conceitos. Gosto muito de pegar um serviço/site, e tentar desenvolver um script de raspagem de dados, ou melhor, documentar a API do mesmo ([recentemente fiz com a API do LikedIN](https://gist.github.com/Diegiwg/51c22fa7ec9d92ed9b5d1f537b9e1107)).
+
+- Com esses estudos, me tornei capaz de construir API Rest em diversos frameworks do mundo Python e Javascript. E adquiri conhecimento na construção de scripts para automatização de tarefas.
+
+- Recentemente, comecei a construir Bots para Discord e Telegram, para aproveitar a vasta experiencia que tenho, construindo raspadores de dados, tanto para sites estáticos, quanto para aqueles que funcionam dinamicamente.
+
+### Auxiliando os colegas
+
+- Sou uma pessoa que gosta muito de estudar, e junto a isso, gosto de ensinar. Sou formado em Licenciatura (Física), e tenho como meta pessoal sempre estar ajudando pessoas.
+
+- Nesse objetivo, aprendo muito enquanto estou discutindo com o pessoal, e mais importante, me aperfeiçoo nas habilidade de se expressar, conversar com outras pessoas, escutar suas opiniões e conduzir uma discussão saudável.
+
 ## Habilidades
 
-## Linguas
+### Back-end
 
-- Portugues: sou nativo.
-- Ingles: consigo manter uma conversa simples.
+- Python, Javascript, Typescript, C e Java.
+- Gerenciamento de Maquinas virtuais.
+- Conhecimento na construção e execução de Testes, com ferramentas especializadas.
+
+### Front-end
+
+- HTML, Svelte, CSS e Elm.
+- Consigo montar um site completo utilizando HTML e Svelte.
+
+### Banco de Dados
+
+- SQLite, PostgreSQL, MongoDB, TinyDB.
+
+### Extras
+
+- PonyORM, SQLAlchemy, Docker, GitHub Actions, Shell Script.
+
+### Linguas
+
+- Português: sou nativo.
+- Ingles: consigo ler, escrever e escutar.
+- Espanhol: consigo ler.
+
+## Outras informações
+
+### Trabalho em equipe
+
+- Consigo me relacionar sem problemas com os colegas de trabalho. Tenho confiança em minhas habilidades de resolução de conflito, e sou profissional nas relações.
+
+### Formação acadêmica
+
+- Pretendo assim que possível, iniciar uma graduação em Sistemas de Informação.
