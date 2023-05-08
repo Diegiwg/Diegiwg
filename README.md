@@ -23,17 +23,17 @@
 
 ### Backend
 
-- [<img src="assets/python.svg" width="14" /> Python](https://www.python.org/) | [<img src="assets/javascript.svg" width="14" /> Javascript](https://www.javascript.com/) | [<img src="assets/typescript.svg" width="14" /> Typescript](https://www.typescriptlang.org/)
-- [<img src="assets/beeware.svg" width="14" /> BeeWare](https://beeware.org/) | [<img src="assets/fastapi.svg" width="14" /> FastAPI](https://fastapi.tiangolo.com/)
+- [<img src="assets/python.svg" width="14" /> Python](https://www.python.org/), [<img src="assets/javascript.svg" width="14" /> Javascript](https://www.javascript.com/), [<img src="assets/typescript.svg" width="14" /> Typescript](https://www.typescriptlang.org/)
+- [<img src="assets/beeware.svg" width="14" /> BeeWare](https://beeware.org/), [<img src="assets/fastapi.svg" width="14" /> FastAPI](https://fastapi.tiangolo.com/)
 
 ### Frontend
 
-- [<img src="assets/html5.svg" width="14" /> HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [<img src="assets/svelte.svg" width="14" /> Svelte](https://svelte.dev/) | [<img src="assets/css.svg" width="14" /> CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [<img src="assets/toga.svg" width="14" /> Toga](https://toga.readthedocs.io/) | [<img src="assets/nextjs.svg" width="14" /> NextJS](https://nextjs.org/)
+- [<img src="assets/html5.svg" width="14" /> HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [<img src="assets/svelte.svg" width="14" /> Svelte](https://svelte.dev/), [<img src="assets/css.svg" width="14" /> CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [<img src="assets/toga.svg" width="14" /> Toga](https://toga.readthedocs.io/), [<img src="assets/nextjs.svg" width="14" /> NextJS](https://nextjs.org/)
 
 ### Bancos de Dados
 
-- [<img src="assets/tinydb.svg" width="14" /> TinyDB](https://tinydb.readthedocs.io/) | [<img src="assets/x-sqlite.svg" width="14" /> SQLite](https://www.sqlite.org/) | [<img src="assets/postgresql.svg" width="14" /> PostgreSQL](https://www.postgresql.org/)
+- [<img src="assets/tinydb.svg" width="14" /> TinyDB](https://tinydb.readthedocs.io/), [<img src="assets/x-sqlite.svg" width="14" /> SQLite](https://www.sqlite.org/), [<img src="assets/postgresql.svg" width="14" /> PostgreSQL](https://www.postgresql.org/)
 
 ### Informações do GitHub
 
