@@ -35,4 +35,6 @@
 
 ### Informações do GitHub
 
+![](https://komarev.com/ghpvc/?username=Diegiwg&color=lightgrey&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES%20DO%20PERFIL)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Diegiwg&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=520)
