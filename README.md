@@ -6,7 +6,7 @@
 
 - <img src="assets/users.svg" width="14" /> Tenho buscado interagir, principalmente auxiliando nas dúvidas e problemas, com várias pessoas, em diversas comunidades (como a [SouJunior Lab](https://discord.gg/soujunior-community-759176734460346423), [Vacuum](https://discord.gg/vacuum), e [He4rt](https://discord.gg/he4rt)), além de grupos em Telegram e WhatsApp. E no futuro, quero oficializar minha atividade como Professor de Programação.
 
-<a name="Discord" class="Only - "></a>
+<a name="Discord" class="Only"></a>
 
 - <img src="assets/diamond.svg" width="14" /> Meu projeto de maior orgulho (e meu primeiro), é o [Sistema de Estoque e Vendas](https://github.com/Diegiwg/sistema-de-vendas-inventario-queiroz-lubrificantes), que desenvolvi voluntariamente, para uma loja em minha cidade. Foi muito interessante, abordar o dono da loja, oferecendo a modernização no 'Excel' que ele usava.
 
