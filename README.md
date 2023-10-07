@@ -18,22 +18,6 @@
 - <img src="assets/discord.svg" width="14" /> Discord: [Diegiwg#6476](#Discord)
 - <img src="assets/diamond.svg" width="14" /> Curriculo: [PDF](https://diegiwg.github.io/Diegiwg/public/Curriculo%20Diego%20Queiroz%20-%20v3.pdf)
 
-## Informações técnicas
-
-### Backend
-
-- [<img src="assets/python.svg" width="14" /> Python](https://www.python.org/), [<img src="assets/javascript.svg" width="14" /> Javascript](https://www.javascript.com/), [<img src="assets/typescript.svg" width="14" /> Typescript](https://www.typescriptlang.org/)
-- [<img src="assets/beeware.svg" width="14" /> BeeWare](https://beeware.org/), [<img src="assets/fastapi.svg" width="14" /> FastAPI](https://fastapi.tiangolo.com/)
-
-### Frontend
-
-- [<img src="assets/html5.svg" width="14" /> HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [<img src="assets/svelte.svg" width="14" /> Svelte](https://svelte.dev/), [<img src="assets/css.svg" width="14" /> CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [<img src="assets/toga.svg" width="14" /> Toga](https://toga.readthedocs.io/), [<img src="assets/nextjs.svg" width="14" /> NextJS](https://nextjs.org/)
-
-### Bancos de Dados
-
-- [<img src="assets/tinydb.svg" width="14" /> TinyDB](https://tinydb.readthedocs.io/), [<img src="assets/x-sqlite.svg" width="14" /> SQLite](https://www.sqlite.org/), [<img src="assets/postgresql.svg" width="14" /> PostgreSQL](https://www.postgresql.org/)
-
 ### Informações do GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=Diegiwg&theme=transparent&count_private=false&show_icons=true&locale=pt-BR&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true&count_private=true" width="380" /><span>&nbsp;&nbsp;&nbsp;</span><img src="https://github-readme-streak-stats.herokuapp.com?user=Diegiwg&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=467&hide_border=true&stroke=8F979C&ring=8F979C&fire=8F979C&currStreakNum=8F979C&sideNums=8F979C&currStreakLabel=8F979C&sideLabels=8F979C&dates=8F979C" width="380" />
