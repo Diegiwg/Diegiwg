@@ -1,15 +1,5 @@
 # Olá, sou o Diego Queiroz
 
-## Um pouco sobre mim
-
-- <img src="assets/user-o.svg" width="14" /> Sou uma pessoa que descobriu a paixão por tecnologia e desenvolvimento de software, que ainda não conseguiu se organizar para estudar em uma graduação. Porém, estou diariamente estudando Python e Javascript, além de algoritmos e tópicos gerais de programação.
-
-- <img src="assets/users.svg" width="14" /> Tenho buscado interagir, principalmente auxiliando nas dúvidas e problemas, com várias pessoas, em diversas comunidades (como a [SouJunior Lab](https://discord.gg/soujunior-community-759176734460346423) e [He4rt](https://discord.gg/he4rt)), além de grupos em Telegram e WhatsApp. E no futuro, quero oficializar minha atividade como Professor de Programação.
-
-<a name="Discord" class="Only"></a>
-
-- <img src="assets/diamond.svg" width="14" /> Meu projeto de maior orgulho (e meu primeiro), é o [Sistema de Estoque e Vendas](https://github.com/Diegiwg/ssiql), que desenvolvi voluntariamente, para uma loja em minha cidade. Foi muito interessante, abordar o dono da loja, oferecendo a modernização no 'Excel' que ele usava.
-
 ## Me encontre em
 
 - <img src="assets/envelope.svg" width="14" /> Email: [prof.diegoqueiroz@gmail.com](mailto:prof.diegoqueiroz@gmail.com)
