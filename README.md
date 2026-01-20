@@ -9,4 +9,4 @@
 
 ### GitHub Information
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Diegiwg&theme=transparent&count_private=true&show_icons=true&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true" width="380" /> | <img src="https://streak-stats.demolab.com?user=Diegiwg&mode=weekly&theme=transparent&hide_border=true&stroke=8F979C&ring=8F979C&fire=8F979C&currStreakNum=8F979C&sideNums=8F979C&currStreakLabel=8F979C&sideLabels=8F979C&dates=8F979C&card_height=200" width="380" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Diegiwg&theme=transparent&count_private=true&show_icons=true&title_color=8F979C&text_color=8F979C&icon_color=8F979C&hide_border=true" width="380" /> |
